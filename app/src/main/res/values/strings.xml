@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3 Números</string>
+    <string name="lblNumero1">Número 1:</string>
+    <string name="lblNumero2">Número 2:</string>
+    <string name="lblNumero3">Número 3:</string>
+    <string name="btnMayor">Mayor</string>
+    <string name="btnMenor">Menor</string>
+    <string name="btnOrdenarAscendente">Ord. Ascendente</string>
+    <string name="btnOrdenarDescendente">Ord. Descendente</string>
+    <string name="btnBorrar">Borrar Todo</string>
+    <string name="hintNumeros">Introduce un número</string>
+</resources>
